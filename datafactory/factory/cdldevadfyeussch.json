@@ -1,0 +1,9 @@
+{
+	"name": "cdldevadfyeussch",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cb0b330-6f60-4c4a-839e-feccc91e6429",
+		"tenantId": "e820fff7-0d9d-46ff-850c-adc2324248ce"
+	}
+}
